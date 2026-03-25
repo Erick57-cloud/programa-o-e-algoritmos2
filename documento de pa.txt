@@ -1,0 +1,15 @@
+/*
+*/
+comentário em múltiplas linhas
+
+// em uma linha só
+
+carro car = new carro();
+
+carro: classe
+car: instancia,objeto - realizar uma função
+carro (): método construtor
+new: operador new
++ = publico
+- = privado
+# = protect           
